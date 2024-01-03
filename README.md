@@ -1,0 +1,2 @@
+Used Monte Carlo simulation in Python to optimize the supply chain by considering demand variations in five diverse
+markets, employing a probabilistic approach with Normal Distribution for modeling demand fluctuations. Implemented a decision model for factory location selection, offering options between low and high-capacity facilities, executed 50 simulation scenarios, and applied a solver to identify the optimal supply chain network, selecting the most frequently occurring solution for further analysis.
